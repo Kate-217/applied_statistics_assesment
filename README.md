@@ -52,12 +52,7 @@ This task examined the accuracy of the numpy.random.normal() function in generat
 ### Task 3: t-Test Calculation
 Analyzed heart rate data before and after a two-week exercise program by calculating the t-statistic manually and comparing it with scipy.stats.
 ### Task 4: ANOVA
-
-
-
-
-
-
+In this task, the one-way ANOVA test was performed 10,000 times to assess the occurrence of Type II errors.
 ## Contribute
 Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request.
 ## References
@@ -73,7 +68,9 @@ Contributions are welcome! Clone the repository, make your improvements or sugge
 [$t$-tests in Python](https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests?utm_source=google&utm_medium=paid_search&utm_campaignid=19589720824&utm_adgroupid=157156376311&utm_device=c&utm_keyword=&utm_matchtype=&utm_network=g&utm_adpostion=&utm_creative=720362650453&utm_targetid=dsa-2218886984100&utm_loc_interest_ms=&utm_loc_physical_ms=1007890&utm_content=&utm_campaign=230119_1-sea~dsa~tofu_2-b2c_3-row-p2_4-prc_5-na_6-na_7-le_8-pdsh-go_9-nb-e_10-na_11-na-bfcm24&gad_source=1&gclid=Cj0KCQiAi_G5BhDXARIsAN5SX7pQ0aY0QXyd2Ix2RLW2lQYol1FE9E3dYWeKhhA_uoVpgOi7zTYLsmYaAnkIEALw_wcB)<br>
 [ttest_rel](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_rel.html)<br>
 [Significance level](https://statisticsbyjim.com/glossary/significance-level/)<br>
-[Statistics (scipy.stats)](https://docs.scipy.org/doc/scipy/tutorial/stats.html)
+[Statistics (scipy.stats)](https://docs.scipy.org/doc/scipy/tutorial/stats.html)<br>
+[Type I and Type II errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)<br>
+[The one-way ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)<br>
 ## Author
 Katerina Lisovenko
 Atlantic Technological University Student (2024-2025)
