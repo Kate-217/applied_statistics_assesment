@@ -74,3 +74,5 @@ Contributions are welcome! Clone the repository, make your improvements or sugge
 ## Author
 Katerina Lisovenko
 Atlantic Technological University Student (2024-2025)
+### Disclaimer
+AI tools, including GPT-3 (ChatGPT), were used to assist with style and grammar checks, as well as to research additional solutions, while ensuring the accuracy and quality of the work.
