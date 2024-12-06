@@ -53,6 +53,8 @@ This task examined the accuracy of the numpy.random.normal() function in generat
 Analyzed heart rate data before and after a two-week exercise program by calculating the t-statistic manually and comparing it with scipy.stats.
 ### Task 4: ANOVA
 In this task, the one-way ANOVA test was performed 10,000 times to assess the occurrence of Type II errors.
+### Project
+
 ## Contribute
 Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request.
 ## References
