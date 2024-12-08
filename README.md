@@ -75,7 +75,8 @@ Contributions are welcome! Clone the repository, make your improvements or sugge
 [Statistics (scipy.stats)](https://docs.scipy.org/doc/scipy/tutorial/stats.html)<br>
 [Type I and Type II errors](https://en.wikipedia.org/wiki/Type_I_and_type_II_errors)<br>
 [The one-way ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)<br>
-[Levene’s test](https://www.geeksforgeeks.org/levenes-test/)
+[Levene’s test](https://www.geeksforgeeks.org/levenes-test/)<br>
+[Itertools Combinations() function](https://www.geeksforgeeks.org/python-itertools-combinations-function/)<br>
 ## Author
 Katerina Lisovenko
 Atlantic Technological University Student (2024-2025)
