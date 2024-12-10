@@ -1,0 +1,8 @@
+pandas
+numpy
+math
+intertools
+random
+matplotlib
+seaborn
+scipy.stats
