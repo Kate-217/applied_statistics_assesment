@@ -30,6 +30,7 @@ git clone <repository-url>
 cd <repository-directory>
 ```
 Run the Python scripts in your preferred IDE or terminal.
+To work with the PlantGrowth R dataset download it using this [link](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/PlantGrowth.csv)<br>
 ## Getting Help
 Refer to the documentation of the libraries used:
 
@@ -54,7 +55,7 @@ Analyzed heart rate data before and after a two-week exercise program by calcula
 ### Task 4: ANOVA
 In this task, the one-way ANOVA test was performed 10,000 times to assess the occurrence of Type II errors.
 ### Project
-The aim of the project is to analyze the PlantGrowth R [dataset](https://literate-space-doodle-7vvq5v7gr496cxx.github.dev/). A brief description of the dataset can be found on Vincent Arel-Bundock's Rdatasets [page](https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html). The dataset contains two main variables: the treatment groups and the weights of plants within those groups.
+The aim of the project is to analyze [the PlantGrowth R dataset](https://vincentarelbundock.github.io/Rdatasets/csv/datasets/PlantGrowth.csv). A brief description of the dataset can be found on Vincent Arel-Bundock's Rdatasets [page](https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html). The dataset contains results from an experiment designed to compare the yields (measured as the dried weight of plants) under three different conditions.
 **Source af data:** Dobson, A. J. (1983) An Introduction to Statistical Modelling. London: Chapman and Hall.
 ##### Tasks:
 * Dataset Preparation<br>
