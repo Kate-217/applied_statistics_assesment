@@ -54,7 +54,15 @@ Analyzed heart rate data before and after a two-week exercise program by calcula
 ### Task 4: ANOVA
 In this task, the one-way ANOVA test was performed 10,000 times to assess the occurrence of Type II errors.
 ### Project
-
+The aim of the project is to analyze the PlantGrowth R [dataset](https://literate-space-doodle-7vvq5v7gr496cxx.github.dev/). A brief description of the dataset can be found on Vincent Arel-Bundock's Rdatasets [page](https://vincentarelbundock.github.io/Rdatasets/doc/datasets/PlantGrowth.html). The dataset contains two main variables: the treatment groups and the weights of plants within those groups.
+**Source af data:** Dobson, A. J. (1983) An Introduction to Statistical Modelling. London: Chapman and Hall.
+##### Tasks:
+* Dataset Preparation<br>
+* Data Description<br>
+* Explain Statistical Methods<br>
+* $t$-test<br>
+* ANOVA<br>
+* Summary<br>
 ## Contribute
 Contributions are welcome! Clone the repository, make your improvements or suggestions, and submit a pull request.
 ## References
